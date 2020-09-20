@@ -1,0 +1,51 @@
+# directories
+.vscode/
+__pycache__/
+venv/
+.env/
+env/
+build/
+dist/
+devdocs/
+dist/
+docs/
+node_modules/
+
+# temp files
+*.tmp
+*.pyc
+*.old*.*
+*.back*.*
+add_tests.py
+notes.md
+
+# compressed files
+*.zip
+
+# Compiled files
+*.py[cod]
+
+# Pip installer logs
+pip-log.log
+
+# Other logs
+*.log
+
+# Pyinstaller
+*.spec
+
+# Database & data files
+*.db
+*.db-journal
+*.sql
+*.xls*
+*.ods*
+*.xlsx*
+
+# Test coverage
+.coverage
+try_*.py
+try.py
+
+# Misc scripts
+*.bat
